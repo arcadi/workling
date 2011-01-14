@@ -1,3 +1,5 @@
+- make work with Rails 3: removed drepcated call to ActiveRecord::Base.allow_concurrency
+
 Version 0.4.2.3, 31.01.2009
 - introduced Workling.raises_exceptions. by default, this is true in test and development to help with bug tracking. 
 - added :threaded as the default spawn runner for test and development. helps problem tracing. 

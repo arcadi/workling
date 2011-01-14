@@ -1,3 +1,7 @@
+# Fork Info
+
+Fixes for Rails 3
+
 # Workling
 
 Workling gives your Rails App a simple API that you can use to make code run in the background, outside of the your request. 
